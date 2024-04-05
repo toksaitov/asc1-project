@@ -23,12 +23,6 @@ The aim of this project is to create an emulator of an imaginary 8-bit CPU desig
 2. Use the `pong` program as a test program for your emulator. Single step the program in the complete emulator from the instructor to better understand how a particular instruction should work in your version of the emulator.
 3. To complete this project, use the knowledge you have gained about x86 and ARM from the previous lectures and labs. The instructions of x86 and ARM CPUs inspired most instructions in this CPU. Therefore, books and reference documents about x86 and ARM, such as 'Intel x86 JUMP Quick Reference' could be incredibly helpful.
 
-## What to Submit
-
-1. In your private course repository given to you by the instructor during the lecture, create the path `project/`.
-2. Put the `asc.h` file into that directory.
-3. Commit and push your repository through Git. Submit the last commit URL to Canvas before the deadline.
-
 ## Deadline
 
 Check Canvas for information about the deadlines.
